@@ -170,7 +170,7 @@ Keep an eye on the repository or the community announcements for the schedule an
 2. **Practice Coding:** Review the example codes and try to implement the algorithms and data structures on your own.
 3. **Engage in Live Sessions:** Join the live classes to get real-time help and enhance your understanding of the topics.
 4. **Contribute:** Feel free to fork the repository, provide improvements, or share your solutions to the exercises.
-5. **Stay Connected:** Use the [Issues](https://github.com/yourusername/Algorithms-Data-Structures-101/issues) section to ask questions, share feedback, or report bugs.
+5. **Stay Connected:** Use the [Issues](https://github.com/rhidoyhasanmahmud/Algorithms-Data-Structures-101/issues) section to ask questions, share feedback, or report bugs.
 
 ## Contributing
 
